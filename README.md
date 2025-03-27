@@ -1,6 +1,6 @@
 # Creating-PostgreSQL-database-and-building-tables-with-Python
 
-# Setting Up PostgreSQL and Building Tables with Python
+
 
 ## About
 
